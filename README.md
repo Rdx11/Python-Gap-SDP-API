@@ -1,5 +1,5 @@
 # Python-Gap-SDP-API
-A Python class for the Gap Messenger SDP API.
+⚡ A Python class for the Gap Messenger SDP API.
 
 ### What is Gap?
 According to [Gap Messenger](https://gap.im/):
